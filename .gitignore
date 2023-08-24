@@ -55,4 +55,4 @@ w1:Button(
     end
 ) -- Text, Callback
 
-w1:Label("made by ZdRe") -- Text
+w1:Label("Made by ZdRe") -- Text
